@@ -4,11 +4,11 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("538296844103450644")
+let channel =     client.channels.get("541250603251269679")
 setInterval(function() {
 channel.send(`test test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test test`);
 }, 30)
 })
 
-   client.login('NTM5ODIwODc4NzU0NDgwMTQ3.DzcffA.I6jUWRSzVcj_ckFuwLWji2ZA440');
+   client.login('NTQxMjQ5NDgzMTQ5ODAzNTMw.DzsdGw.nJp84EqYxmTiinTtX6h-1Gs9g34');
    
